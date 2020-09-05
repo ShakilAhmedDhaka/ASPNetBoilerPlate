@@ -1,0 +1,12 @@
+D:\projects\Tracker\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\projects\Tracker\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\projects\Tracker\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\projects\Tracker\DAL\bin\Debug\netstandard2.0\Entities.dll
+D:\projects\Tracker\DAL\bin\Debug\netstandard2.0\Entities.pdb
+D:\projects\Tracker\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\projects\Tracker\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\projects\Tracker\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\projects\Tracker\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\projects\Tracker\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\projects\Tracker\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\projects\Tracker\DAL\obj\Debug\netstandard2.0\DAL.pdb
