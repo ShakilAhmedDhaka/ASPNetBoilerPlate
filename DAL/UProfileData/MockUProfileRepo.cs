@@ -19,7 +19,7 @@ namespace DAL.UProfileData
                 {
                     UserId = 0,
                     Name = "John Adams",
-                    //Email = "john@ontrack.com",
+                    //Email = "john@Tracker.com",
                     Dob = new DateTime(1735, 10, 30),
                     Sex = "Male"
                 },
@@ -27,7 +27,7 @@ namespace DAL.UProfileData
                 {
                     UserId = 1,
                     Name = "George Washington",
-                    //Email = "george@ontrack.com",
+                    //Email = "george@Tracker.com",
                     Dob = new DateTime(1732, 02, 22),
                     Sex = "Male"
                 },
@@ -35,7 +35,7 @@ namespace DAL.UProfileData
                 {
                     UserId = 2,
                     Name = "Thomas Jefferson",
-                    //Email = "thomas@ontrack.com",
+                    //Email = "thomas@Tracker.com",
                     Dob = new DateTime(1743, 04, 13),
                     Sex = "Male"
                 }
@@ -51,7 +51,7 @@ namespace DAL.UProfileData
             {
                 UserId = 0,
                 Name = "John Adams",
-                //Email = "john@ontrack.com",
+                //Email = "john@Tracker.com",
                 Dob = new DateTime(1735, 10, 30),
                 Sex = "Male"
             };

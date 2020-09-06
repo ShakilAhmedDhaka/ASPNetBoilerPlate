@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "OnTrack": {
+    "Tracker": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "tracker",

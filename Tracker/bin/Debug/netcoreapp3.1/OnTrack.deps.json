@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "OnTrack/1.0.0": {
+      "Tracker/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.0.1",
           "Microsoft.AspNetCore.JsonPatch": "3.1.7",
@@ -302,10 +302,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "OnTrack.dll": {}
+          "Tracker.dll": {}
         },
         "compile": {
-          "OnTrack.dll": {}
+          "Tracker.dll": {}
         }
       },
       "AutoMapper/10.0.0": {
@@ -3005,7 +3005,7 @@
     }
   },
   "libraries": {
-    "OnTrack/1.0.0": {
+    "Tracker/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

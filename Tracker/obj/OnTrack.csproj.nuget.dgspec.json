@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\OnTrack\\OnTrack\\OnTrack.csproj": {}
+    "D:\\projects\\Tracker\\Tracker\\Tracker.csproj": {}
   },
   "projects": {
-    "D:\\projects\\OnTrack\\OnTrack\\OnTrack.csproj": {
+    "D:\\projects\\Tracker\\Tracker\\Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\OnTrack\\OnTrack\\OnTrack.csproj",
-        "projectName": "OnTrack",
-        "projectPath": "D:\\projects\\OnTrack\\OnTrack\\OnTrack.csproj",
+        "projectUniqueName": "D:\\projects\\Tracker\\Tracker\\Tracker.csproj",
+        "projectName": "Tracker",
+        "projectPath": "D:\\projects\\Tracker\\Tracker\\Tracker.csproj",
         "packagesPath": "C:\\Users\\shakil\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\OnTrack\\OnTrack\\obj\\",
+        "outputPath": "D:\\projects\\Tracker\\Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
